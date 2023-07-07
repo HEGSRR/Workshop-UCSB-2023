@@ -1,4 +1,3 @@
-# workshop-SDSS-2023
- Workshop for spatial data
+# Workshop-SDSS-2023
 
- see page...
+Website: https://hegsrr.github.io/Workshop-SDSS-2023/

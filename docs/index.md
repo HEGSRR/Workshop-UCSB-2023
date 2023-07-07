@@ -44,7 +44,7 @@ We will conclude the tutorial with *breakout groups* to discuss:
 
 We are interested in conducting pre- and post-surveys based on The Unified Theory of Acceptance and Use of Technology (UTAUT) survey instrument with tutorial participants as part of our research on pedagogy and reproducibility.
 
-## Expected participation
+## Expected Participation
 
 We anticipate that this tutorial will be interesting and valuable for the following groups:
 
@@ -53,5 +53,3 @@ We anticipate that this tutorial will be interesting and valuable for the follow
 - Professors interested in teaching reproduction or replication studies in their courses or as part of their advising and mentoring
 - Graduate advisors and research mentors interested in training their research assistants / advisees on more reproducible practices
 - Journal editors interested in publishing reproduction or replication studies, or more thoroughly incorporating reproducibility into their review of original research
-
-Website: http://sdss2023.spatial-data-science.net/
