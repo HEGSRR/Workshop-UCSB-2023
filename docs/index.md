@@ -39,17 +39,3 @@ We will conclude the tutorial with *breakout groups* to discuss:
 1. sharing questions or concerns about our approach to reproducibility and replicability (R&R),
 2. developing action plans for adoption in current research and teaching programs, and
 3. collectively discussing next steps to scale up R&R in spatial data science.
-
-## Evaluation
-
-We are interested in conducting pre- and post-surveys based on The Unified Theory of Acceptance and Use of Technology (UTAUT) survey instrument with tutorial participants as part of our research on pedagogy and reproducibility.
-
-## Expected Participation
-
-We anticipate that this tutorial will be interesting and valuable for the following groups:
-
-- Graduate students interested in learning methods from the literature and either publishing reproduction or replication reports or extending prior research in their own master's theses or PhD dissertations.
-- Faculty and career researchers interested in adopting more open and reproducible research practices for their own original work, or simply crafting more competitive data management plans and working more efficiently and accurately.
-- Professors interested in teaching reproduction or replication studies in their courses or as part of their advising and mentoring
-- Graduate advisors and research mentors interested in training their research assistants / advisees on more reproducible practices
-- Journal editors interested in publishing reproduction or replication studies, or more thoroughly incorporating reproducibility into their review of original research
