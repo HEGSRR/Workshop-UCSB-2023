@@ -71,4 +71,61 @@ This will allow us to answer the questions:
 
 ## Survey distribution and collection details
 
-The survey will be distributed electronically using Qualtrics. The first wave will be distributed with a URL link and QR code link at the beginning of the workshop. The second and third waves will be distributed with email addresses provided by participants in the first survey. Participation is optional and participants can skip questions or close the survey at any time. We will use Qualtrics to link email addresses with unique survey response IDs. The surveys are set to the "AWhen we analyze the data, we use the Qualtrics API and the QualtRics package for R to download the data, de-identify
+The survey will be distributed electronically using Qualtrics. The first wave will be distributed with a URL link and QR code link at the beginning of the workshop. The second (immediately post-workshop) and third (after one year) waves will be distributed with email addresses provided by participants in the first survey. Participation is optional and participants can skip questions or close the survey at any time.
+
+The surveys use the Qualtrics option to "Anonymize responses. Don’t record respondents’ IP Address, location data, and contact info."
+The only personally identifiable information is the participants' email address.
+We use the Qualtrics API and the QualtRics package for R to load a temporary version of the data, de-identify responses by dropping the email column, and save a permanent de-identified version of data for analysis and archival.
+We never save a permanent version of identifiable data outside of the password-protected Qualtrics database.
+After dropping the email data field, responses across the three survey waves are linked by unique identifiers that are random and anonymous.
+
+## Project method
+
+Research participants have enrolled in a workshop on reproducibility and replicability. At the beginning of the workshop, participants will be invited to complete a Qualtrics survey using a link and QR code. We expect the survey to take up to 5 minutes. We will then use a Qualtrics report to visualize anonymous aggregated results to share with participants immediately, before proceeding with the workshop. The survey will close at this time. The first workshop (SDSS, September 2023) is scheduled for one hour. The second workshop (AALAC, July 2024) is scheduled for two days. See additional documentation documents for the two workshop proposals.
+
+After the workshop, participants who submitted their permission and email address will receive an email to repeat a second wave of the survey. This version of the survey will add optional qualitative response questions for feedback about the workshop and future outreach. With qualitative feedback, this survey may take 5 to 10 minutes.
+
+After one academic year, participants who submitted their permission and email address will receive an email to repeat a third wave of the survey. This version of the survey will add optional qualitative response questions for feedback about the workshop and future outreach. With qualitative feedback, this survey may take 5 to 10 minutes.
+
+# Risks and Benefits
+
+- Civil liability: No
+- Criminal liability: No
+- Financial or employment risk: No
+- Social risk: No
+- Physical risk to you or others: No
+- Stress: No
+
+# Privacy and Confidentiality
+
+- [x] Data will be collected confidentially.
+
+## Plan to protect data
+
+Data will be stored on the password protected and ethics-compliant Qualtrics server. The project will be shared only with the PI and collaborators reported to this IRB protocol.
+
+The surveys use the Qualtrics option to "Anonymize responses. Don’t record respondents’ IP Address, location data, and contact info."
+The only personally identifiable information is the participants' email address.
+We use the Qualtrics API and the QualtRics package for R to load a temporary version of the data, de-identify responses by dropping the email column, and save a permanent de-identified version of data for analysis and archival.
+We never save a permanent version of identifiable data outside of the password-protected Qualtrics database.
+After dropping the email data field, responses across the three survey waves are linked by unique identifiers that are random and anonymous.
+
+Anonymous versions of the data will be archived on GitHub.com and OSF.io, including the GitHub-based workshop website.
+
+## Risk analysis
+
+We do not anticipate any significant immediate or long-term risks associated with this research.
+There is always a remote possibility of security breaches for databases like Qualtrics where personal information is stored.
+However, the survey does not ask participants about any risky information, and participants' use of open and reproducible research practices is already evident in their publications.
+
+## Benefits
+
+Participants benefit from the research in the form of the knowledge and training in the workshops. Additionally, by participating in the survey, participants will be able to have a more tailored and interactive workshop experience. Additionally, further contact after one year has been shown to increase uptake of open and reproducible research practices after workshops.
+
+## Benefits to discipline or society
+
+We hope that there will be significant benefits to science and society. Transparency, openness, and reproducibility are increasingly recognized across disciplines and funding organizations as high priorities for the integrity of research and for equitable public access to research with social implications. In order to change the culture of research to adopt more open and reproducible practices, we are developing infrastructure, curricula, and workshops and outreach. This research will help us to improve our workshop and outreach components.
+
+## Physiological data collection
+
+- [x] Subjects will not exercise
