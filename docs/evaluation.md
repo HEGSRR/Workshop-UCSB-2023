@@ -3,10 +3,13 @@ layout: page
 title: Evaluation
 ---
 
-## Evaluation
+We will conduct three short surveys to establish a baseline of knowledge and interest in open and reproducible research practices and help guide outreach for implementing open and reproducible research practices in new research and teaching programs.
+The timing of the surveys will be:
 
-We will conduct a survey at the beginning of the workshop and invite participants to complete a post-workshop survey immediately following the workshop and one academic year later.
-The short surveys will establish a baseline of knowledge and interest in open and reproducible research practices and help guide outreach for implementing open and reproducible research practices in new research and teaching programs.
+1. At the beginning of the workshop
+2. Shortly following the workshop
+3. One academic year after the workshop.
+
 We will share survey results here.
 
 You may read the [informed consent document](assets/IRB_Consent.pdf) for the survey instrument.
