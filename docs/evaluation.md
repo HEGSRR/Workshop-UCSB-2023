@@ -5,6 +5,8 @@ title: Evaluation
 
 ## Evaluation
 
-We are interested in conducting pre- and post-surveys based on The Unified Theory of Acceptance and Use of Technology (UTAUT) survey instrument with tutorial participants as part of our research on pedagogy and reproducibility.
+We will conduct a survey at the beginning of the workshop and invite participants to complete a post-workshop survey immediately following the workshop and one academic year later.
+The short surveys will establish a baseline of knowledge and interest in open and reproducible research practices and help guide outreach for implementing open and reproducible research practices in new research and teaching programs.
+We will share survey results here.
 
-We will invite participants to fill out pre-workshop and post-workshop surveys and we will share the results here.
+You may read the [informed consent document](assets/IRB_Consent.pdf) for the survey instrument.
