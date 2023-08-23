@@ -26,5 +26,4 @@ We anticipate that this tutorial will be interesting and valuable for the follow
 
 - `Funding Name`: National Science Foundation Directorate for Social, Behavioral and Economic Sciences
 - `Funding Title`: Transforming theory-building and STEM education through reproductions and replications in the geographical sciences
-- `Award info URI`: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049837
 - `Award number`: [BCS-2049837](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049837)
