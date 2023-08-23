@@ -21,3 +21,10 @@ We anticipate that this tutorial will be interesting and valuable for the follow
 - Professors interested in teaching reproduction or replication studies in their courses or as part of their advising and mentoring
 - Graduate advisors and research mentors interested in training their research assistants / advisees on more reproducible practices
 - Journal editors interested in publishing reproduction or replication studies, or more thoroughly incorporating reproducibility into their review of original research
+
+## Acknowledgement
+
+- `Funding Name`: National Science Foundation Directorate for Social, Behavioral and Economic Sciences
+- `Funding Title`: Transforming theory-building and STEM education through reproductions and replications in the geographical sciences
+- `Award info URI`: https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049837
+- `Award number`: [BCS-2049837](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2049837)
