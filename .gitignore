@@ -39,7 +39,8 @@ vignettes/*.pdf
 # R Environment Variables
 .Renviron
 
-
+# ppt temp files
+~$*.pptx
 
 # translation temp files
 po/*~
