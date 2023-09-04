@@ -20,7 +20,7 @@ title: Discussion
 
 
 #### Performance Indicators and Assessment
-1. What impact would you expect increased adoption of open science practices to have have on your research quality, collaboration, or visibility?
+1. What impact would you expect increased adoption of open science practices to have on your research quality, collaboration, or visibility?
 2. Are there established benchmarks or standards within the open science community that you believe geographic researchers can use to set targets for open science skill proficiency and adoption?
 3. What qualitative feedback from researchers and collaborators can be used to refine open science training programs and initiatives?
 
