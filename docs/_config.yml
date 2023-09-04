@@ -51,6 +51,7 @@ minima:
 header_pages:
   - index.md
   - about.md
+  - resources.md
   - team.md
   - evaluation.md
 
