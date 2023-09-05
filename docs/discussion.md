@@ -27,3 +27,13 @@ title: Discussion
 #### Community Building
 1. What are some ways to create a community of practice where geographic researchers can share their experiences and learn from one another's successes and challenges? Would you be interested in joining such a community?
 2. What will be some key ways to incentivize and recognize researchers who actively contribute to open science initiatives in geography and spatial data science?
+
+---
+
+### Workshop Prompts
+1. Can you share any successes, advice, or best practices introducing reproducibility and replicability in your spatial data science scholarship (research or teaching)?
+2. What barriers do you perceive to adopting open and reproducible research practices in your own scholarship?
+3. Could any resources, changes, or incentives help overcome those barriers?
+
+### Questions From Workshop Participants
+1.  
