@@ -74,9 +74,9 @@ This will allow us to answer the questions:
 The survey will be distributed electronically using Qualtrics. The first wave will be distributed with a URL link and QR code link at the beginning of the workshop. The second (immediately post-workshop) and third (after one year) waves will be distributed with email addresses provided by participants in the first survey. Participation is optional and participants can skip questions or close the survey at any time.
 
 The surveys use the Qualtrics option to "Anonymize responses. Don’t record respondents’ IP Address, location data, and contact info."
-The only personally identifiable information is the participants' email address.
+The only personally identifiable information is the participants' self-reported email address.
 We use the Qualtrics API and the QualtRics package for R to load a temporary version of the data, de-identify responses by dropping the email column, and save a permanent de-identified version of data for analysis and archival.
-We never save a permanent version of identifiable data outside of the password-protected Qualtrics database.
+We never save a version of identifiable data outside of the password-protected Qualtrics database.
 After dropping the email data field, responses across the three survey waves are linked by unique identifiers that are random and anonymous.
 
 ## Project method
@@ -105,9 +105,9 @@ After one academic year, participants who submitted their permission and email a
 Data will be stored on the password protected and ethics-compliant Qualtrics server. The project will be shared only with the PI and collaborators reported to this IRB protocol.
 
 The surveys use the Qualtrics option to "Anonymize responses. Don’t record respondents’ IP Address, location data, and contact info."
-The only personally identifiable information is the participants' email address.
+The only personally identifiable information is the participants' self-reported email address.
 We use the Qualtrics API and the QualtRics package for R to load a temporary version of the data, de-identify responses by dropping the email column, and save a permanent de-identified version of data for analysis and archival.
-We never save a permanent version of identifiable data outside of the password-protected Qualtrics database.
+We never save a version of identifiable data outside of the password-protected Qualtrics database.
 After dropping the email data field, responses across the three survey waves are linked by unique identifiers that are random and anonymous.
 
 Anonymous versions of the data will be archived on GitHub.com and OSF.io, including the GitHub-based workshop website.
