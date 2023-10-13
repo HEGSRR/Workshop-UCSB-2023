@@ -12,6 +12,10 @@ title: Resources
 - [HEGSRR GitHub Organization](https://www.github.com/HEGSRR)
 - Overarching [OSF Project](https://osf.io/c5a2r/)
 
+## Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SMfEq0jKf6U?si=tyBsYOPvflC9Zejc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## Related research products
 
 We post new research and outreach activities at [hegsrr.github.io](https://hegsrr.github.io/) and outline major products at [hegsrr.github.io/products/](https://hegsrr.github.io/products/)
