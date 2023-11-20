@@ -14,7 +14,3 @@ The timing of the surveys will be:
 We will share survey results here.
 
 You may read the [informed consent document](assets/IRB_Consent.pdf) for the survey instrument.
-
-At the beginning of the workshop, 54 participants reported their engagement with eleven open and reproducible research practices. Results are shown below.
-
-![open and reproducible research practices prior to workshop](assets/orrp_status_prior.png)
