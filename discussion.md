@@ -37,3 +37,10 @@ title: Discussion
 
 ### Questions From Workshop Participants
 1.  
+
+
+### UCSB Notes
+
+1. Peter Intro for 15-20 minutes
+1. primary focus on open research
+1. 15-20 minute discussion at the end
