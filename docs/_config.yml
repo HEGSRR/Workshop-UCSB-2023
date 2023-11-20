@@ -1,10 +1,10 @@
-title: Reproducing and Replicating Spatial Data Science
+title: Reproducible Research Practices for Spatial Data Science
 author: "Joseph Holler"
 
 # The `>` after `description:` means to ignore line-breaks until next key.
 # If you want to omit the line-break after the end of text, use `>-` instead.
 description: >
-  SDSS 2023 Workshop on Reproducing and Replicating Spatial Data Science: a Tutorial with Breakout Discussion
+  UCSB 2023 Workshop on Reproducing and Replicating Spatial Data Science: a Tutorial with Breakout Discussion
 
 # Build settings
 
