@@ -3,7 +3,7 @@ layout: page
 title: About
 ---
 
-Scientific research is increasingly expected to be reproducible as a matter of transparency and public trust in research, such that other researchers can use the same data and methods to produce the same results.
+**Motivation:** Scientific research is increasingly expected to be reproducible as a matter of transparency and public trust in research, such that other researchers can use the same data and methods to produce the same results.
 Reproducibility and replicability are also integral to the mechanisms of self-correction and theory development in science.
 Reproduction studies are needed to evaluate the internal validity of prior research findings.
 Replication studies with different data and in different geographic contexts are needed to assess the external validity and generalizability of prior research claims.
@@ -15,9 +15,8 @@ There are concurrent and interdependent needs to develop:
 2. exemplar cases of reproduction and replication studies in spatial data science, and
 3. a reproducibility and replicability curriculum.
 
-We will present working prototypes of infrastructure, exemplar cases, and curriculum
-developed over the first two years of the National Science Foundation award, *Transforming theory-building and STEM education through reproductions and replications in the geographical sciences*.
-Following presentations, we will form breakout groups to discuss applications to individual research programs and future steps for scaling up reproducible research practices in spatial data science.
+**Agenda:** We will briefly define reproducibility and replicability in relation to geography and spatial data science and present the current state of the field. 
+We will then review selected best practices for conducting reproducible research, while presenting working prototypes of infrastructure, exemplar cases, and curriculum developed over the first two years of the National Science Foundation award, Transforming theory-building and STEM education through reproductions and replications in the geographical sciences. 
 
 We will present *infrastructure* in the form a Git repository template for reproducible research compendia and handbook.
 The template research compendium and handbook help guide the research process and organize research materials while maximizing reproducibility, and may be applied to both individual and collaborative research; and to original studies or reproduction/replication studies.
@@ -34,7 +33,7 @@ The case also highlights approaches and advantages to using reproduction studies
 The majority of the reproduction study has been implemented, written, and presented by students.
 The infrastructure (template and handbook), exemplar case, and course curriculum are all being made available to the public with open access licensing so that tutorial participants can review and reuse the materials in their own scholarship.
 
-We will conclude the tutorial with *breakout groups* to discuss:
+We will conclude the tutorial with open discuss. Some likely topics include:
 
 1. sharing questions or concerns about our approach to reproducibility and replicability (R&R),
 2. developing action plans for adoption in current research and teaching programs, and
