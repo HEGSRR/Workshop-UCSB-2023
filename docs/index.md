@@ -8,7 +8,7 @@ title: Attend
 Website:  [sdss2023.spatial-data-science.net](http://sdss2023.spatial-data-science.net/)  
 Date: December 7, 2023 
 Time: 11:00 am to 1:00 pm EST  
-Location: Ellison 
+Location: Ellison 2609
 
 ## Expected Participation
 
