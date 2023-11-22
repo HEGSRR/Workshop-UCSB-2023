@@ -18,4 +18,4 @@ title: Resources
 
 ## Related research products
 
-We post new research and outreach activities at [hegsrr.github.io](https://hegsrr.github.io/) and outline major products at [hegsrr.github.io/products/](https://hegsrr.github.io/products/)
+We post new research and outreach activities at [hegsrr.github.io](https://hegsrr.github.io/).
