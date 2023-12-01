@@ -1,6 +1,6 @@
 # Workshop-SDSS-2023
 
-Website: https://hegsrr.github.io/Workshop-SDSS-2023/
+Website: [https://hegsrr.github.io/Workshop-SDSS-2023/](https://hegsrr.github.io/Workshop-UCSB-2023/)
 
 Schedule
 - Introduction to the concepts and motivation (Kedron & Bardin) **15min**
