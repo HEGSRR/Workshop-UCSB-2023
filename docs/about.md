@@ -20,16 +20,16 @@ There are concurrent and interdependent needs to develop:
 The **Central Objective** of the workshop is to situate reproducibility and replicability within the geography and spatial data science, and introduce participants to selected research practices and resources for they can use to make their own work more reproducible.  
 
 #### Workshop Agenda
-| Time   | Topic                                                       | Presenters     |
-| ---    | ---                                                         | ---            |
+| Time   | Topic                                                       | Presenters |
+| ---    | ---                                                         | --- |
 | 15 min | What is R&R and why should you care?                        | Kedron, Bardin | 
 | 25 min | Which open science practices are you familair with?         | Holler, Bardin |
-| 15 min | What else do you want to know 1? (Discussion)               | All            |
-| 5 min  | Break                                                       | All            |
-| 10 min | What does the open science ecosystem look like?             | All            |
-| 30 min | What can open geographical science look like in practice?   | Holler         |
+| 15 min | What else do you want to know 1? (Discussion)               | All |
+| 5 min  | Break                                                       | All |
+| 10 min | What does the open science ecosystem look like?             | All |
+| 30 min | What can open geographical science look like in practice?   | Holler |
 | 5 min  | How do you get started? Where can you contribute?           | Kedron, Holler | 
-| 15 min | What else do you want to know 2? (Discussion)               | All            |
+| 15 min | What else do you want to know 2? (Discussion)               | All |
 
 The workshop is designed to be dynamic and participatory, which means the schedule above is tentative.
 More information on what will be covered is presented below.  
