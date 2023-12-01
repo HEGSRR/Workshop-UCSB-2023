@@ -3,7 +3,8 @@ layout: page
 title: About
 ---
 
-**Motivation:** Scientific research is increasingly expected to be reproducible as a matter of transparency and public trust in research, such that other researchers can use the same data and methods to produce the same results.
+## Motivation 
+Scientific research is increasingly expected to be reproducible as a matter of transparency and public trust in research, such that other researchers can use the same data and methods to produce the same results.
 Reproducibility and replicability are also integral to the mechanisms of self-correction and theory development in science.
 Reproduction studies are needed to evaluate the internal validity of prior research findings.
 Replication studies with different data and in different geographic contexts are needed to assess the external validity and generalizability of prior research claims.
@@ -15,7 +16,25 @@ There are concurrent and interdependent needs to develop:
 2. exemplar cases of reproduction and replication studies in spatial data science, and
 3. a reproducibility and replicability curriculum.
 
-**Agenda:** We will briefly define reproducibility and replicability in relation to geography and spatial data science and present the current state of the field. 
+## Agenda
+The **Central Objective** of the workshop is to situate reproducibility and replicability within the geography and spatial data science, and introduce participants to selected research practices and resources for they can use to make their own work more reproducible.  
+
+#### Workshop Agenda
+| Time   | Topic                                                       | Presenters     |
+| ---    | ---                                                         | ---            |
+| 15 min | What is R&R and why should you care?                        | Kedron, Bardin | 
+| 25 min | Which open science practices are you familair with?         | Holler, Bardin |
+| 15 min | What else do you want to know 1? (Discussion)               | All            |
+| 5 min  | Break                                                       | All            |
+| 10 min | What does the open science ecosystem look like?             | All            |
+| 30 min | What can open geographical science look like in practice?   | Holler         |
+| 5 min  | How do you get started? Where can you contribute?           | Kedron, Holler | 
+| 15 min | What else do you want to know 2? (Discussion)               | All            |
+
+The workshop is designed to be dynamic and participatory, which means the schedule above is tentative.
+More information on what will be covered is presented below.  
+
+We will briefly define reproducibility and replicability in relation to geography and spatial data science and present the current state of the field. 
 We will then review selected best practices for conducting reproducible research, while presenting working prototypes of infrastructure, exemplar cases, and curriculum developed over the first two years of the National Science Foundation award, Transforming theory-building and STEM education through reproductions and replications in the geographical sciences. 
 
 We will present *infrastructure* in the form a Git repository template for reproducible research compendia and handbook.
