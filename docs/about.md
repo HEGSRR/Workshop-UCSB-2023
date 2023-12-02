@@ -20,6 +20,7 @@ There are concurrent and interdependent needs to develop:
 The **Central Objective** of the workshop is to situate reproducibility and replicability within the geography and spatial data science, and introduce participants to selected research practices and resources for they can use to make their own work more reproducible.  
 
 #### Workshop Agenda
+
 | Time   | Topic                                                       | Presenters |
 | ---    | ---                                                         | --- |
 | 15 min | What is R&R and why should you care?                        | Kedron, Bardin | 
